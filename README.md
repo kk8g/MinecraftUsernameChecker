@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/65f4c9cb-4184-4137-a5b0-01e3a78c3cbe)# How it works?
+# How it works?
 We use the already mojang API from the official publishers from minecraft. Then we can use this API to send request to return a valid response, Once we get the request back the data is sent to us and print to visualize what data we captured from the request we gave. For this instance we requested to check a list of usernames that arnt taken by already exsisting users. Then it is sent to Discord webhook where we can get a clearer output.
 ## Picture
 ![Picture](https://cdn.discordapp.com/attachments/1361127529913778277/1366167217431117834/image.png?ex=680ff5de&is=680ea45e&hm=484062c55f72f042d568c60798ac7b01e4c93238dfcbe8aee092fde8115097aa&)
