@@ -32,7 +32,7 @@ pip install requests fade colorama
 1. **Run the Program**
 
 ```bash
-python minecraft_username_checker.py
+python main.py
 ```
 
 2. **Choose Input Method**
